@@ -1,5 +1,3 @@
-# :earth_americas: GDP dashboard template
-
 A Streamlit app showing the PV Capacity in PA (Annual & Cumulative)
 
 As of 2/12/2025/2024.
